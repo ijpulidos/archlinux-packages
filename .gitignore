@@ -1,0 +1,6 @@
+*.tar.gz
+.vagrant
+pkg/
+src/
+*.pkg.tar.xz
+*.src.tar.gz
